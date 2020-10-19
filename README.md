@@ -2,6 +2,8 @@
 
 I'm Hawtim Zhang, a Frontend Engineer.
 
+<!-- 
+
 ### Technologies
 
 These are some of the technologies and tools that I work with:
@@ -31,3 +33,5 @@ Specify with:
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=reactjs)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?style=flat-square)
+
+-->
