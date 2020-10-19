@@ -2,10 +2,6 @@
 
 I'm Hawtim Zhang, a Frontend Engineer.
 
-<!-- ### Cool Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hawtim&count_private=true&theme=dark)
--->
-
 ### Technologies
 
 These are some of the technologies and tools that I work with:
@@ -35,13 +31,3 @@ Specify with:
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=reactjs)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?style=flat-square)
-
-
-### Repository
-
-[![suono](https://github-readme-stats.vercel.app/api/pin/?username=hawtim&repo=suono&theme=dark)](https://github.com/hawtim/suono)
-[![stylelint-config](https://github-readme-stats.vercel.app/api/pin/?username=hawtim&repo=stylelint-config&theme=dark)](https://github.com/hawtim/stylelint-config)
-[![maoyan-film-picture](https://github-readme-stats.vercel.app/api/pin/?username=hawtim&repo=maoyan-film-picture&theme=dark)](https://github.com/hawtim/maoyan-film-picture)
-[![vue3-template-starter](https://github-readme-stats.vercel.app/api/pin/?username=hawtim&repo=vue3-template-starter&theme=dark)](https://github.com/hawtim/vue3-template-starter)
-[![kty](https://github-readme-stats.vercel.app/api/pin/?username=hawtim&repo=kty&theme=dark)](https://github.com/hawtim/kty)
-[![kzip](https://github-readme-stats.vercel.app/api/pin/?username=hawtim&repo=kzip&theme=dark)](https://github.com/hawtim/kzip)
