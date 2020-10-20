@@ -30,6 +30,7 @@ WorkFlow:
 Something I try with:
 
 ![ReactJS](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=redux)
+![Go](https://img.shields.io/badge/-Go-7fd5ea?style=flat-square&logo=go)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
