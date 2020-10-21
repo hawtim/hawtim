@@ -2,8 +2,6 @@
 
 I'm Hawtim Zhang, a Frontend Engineer.
 
-
-
 ### Technologies
 
 These are some of the technologies and tools that I work with:
@@ -20,7 +18,6 @@ These are some of the technologies and tools that I work with:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
 
-
 WorkFlow: 
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -34,7 +31,6 @@ Code Style
 ![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?style=flat-square&logo=eslint)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![xo](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
-
 
 Something I am learning with:
 
