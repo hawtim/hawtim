@@ -43,10 +43,10 @@ Something I am learning with:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 52 mins  ███████████▒░░░░░░░░░░░░░   45.00 % 
-Vue.js       6 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.59 % 
-Markdown     3 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-JSON         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-TypeScript   1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+JavaScript                 13 hrs 38 mins  ███████████░░░░░░░░░░░░░░   43.91 % 
+Vue.js                     6 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Markdown                   4 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+JSON                       2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Nginx configuration file   1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 <!--END_SECTION:waka-->
