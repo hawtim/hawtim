@@ -40,6 +40,6 @@ Something I am learning with:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 49 mins   █████████████████████████   99.92 % 
+JavaScript   6 hrs 23 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
