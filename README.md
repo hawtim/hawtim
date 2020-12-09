@@ -2,7 +2,7 @@
 
 I'm Hawtim Zhang, a Frontend Engineer.
 
-### Technologies
+<!-- ### Technologies
 
 These are some of the technologies and tools that I work with:
 
@@ -24,10 +24,13 @@ WorkFlow:
 ![Gitlab](https://img.shields.io/badge/-Gitlab-%23330f63.svg?&style=flat-square&logo=gitlab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+
 Code Style
 
 ![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?style=flat-square&logo=eslint)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
+--> 
 
 <!--
 Something I am learning with:
