@@ -2,7 +2,7 @@
 
 I'm Hawtim Zhang, a Frontend Engineer.
 
-<!-- ### Technologies
+### Technologies
 
 These are some of the technologies and tools that I work with:
 
@@ -30,16 +30,15 @@ Code Style
 ![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?style=flat-square&logo=eslint)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
---> 
 
-<!--
 Something I am learning with:
+
 ![React](https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/-Go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Visits](https://badges.pufler.dev/visits/hawtim/hawtim) -->
+![Visits](https://badges.pufler.dev/visits/hawtim/hawtim)
 
 <!--START_SECTION:waka-->
 ```text
