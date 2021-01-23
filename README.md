@@ -2,6 +2,8 @@
 
 I'm Hawtim Zhang, a Frontend Engineer.
 
+
+
 ### Technologies
 
 These are some of the technologies and tools that I work with:
@@ -13,9 +15,10 @@ These are some of the technologies and tools that I work with:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white)
-[![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
+![React](https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![jest](https://jestjs.io/img/jest-badge.svg) 
+![Visits](https://badges.pufler.dev/visits/hawtim/hawtim)
+
 
 WorkFlow: 
 
@@ -33,12 +36,11 @@ Code Style
 
 Something I am learning with:
 
-![React](https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/-Go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Visits](https://badges.pufler.dev/visits/hawtim/hawtim)
+
 
 <!--START_SECTION:waka-->
 ```text
