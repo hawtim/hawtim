@@ -37,6 +37,10 @@ Something I am learning with:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js       7 hrs 50 mins   ██████████████░░░░░░░░░░░   56.43 % 
+JavaScript   4 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.51 % 
+JSON         58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+LESS         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+TypeScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 <!--END_SECTION:waka-->
