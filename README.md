@@ -37,8 +37,10 @@ Something I am learning with:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       12 hrs 12 mins  ██████████████▒░░░░░░░░░░   57.02 % 
-JavaScript   9 hrs 9 mins    ██████████▓░░░░░░░░░░░░░░   42.75 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript   9 hrs 18 mins   ████████████░░░░░░░░░░░░░   47.96 % 
+Vue.js       8 hrs 9 mins    ██████████▓░░░░░░░░░░░░░░   42.03 % 
+TypeScript   1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
