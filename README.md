@@ -37,10 +37,10 @@ Something I am learning with:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   17 hrs 47 mins  ███████████████▒░░░░░░░░░   60.73 % 
-Vue.js       7 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.79 % 
-JSON         2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-TypeScript   1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JavaScript   18 hrs 52 mins  ███████████████▒░░░░░░░░░   61.66 % 
+Vue.js       8 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.28 % 
+JSON         2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+TypeScript   1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Git Config   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
