@@ -37,8 +37,6 @@ Something I am learning with:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 27 hrs 45 mins
-
 Vue.js       16 hrs 9 mins   ██████████████▓░░░░░░░░░░   58.19 % 
 TypeScript   8 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   32.36 % 
 JavaScript   2 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
