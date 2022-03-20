@@ -9,8 +9,7 @@ These are some of the technologies and tools that I work with:
 ![Vue.js](https://img.shields.io/badge/-Vue.js%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![jest](https://jestjs.io/img/jest-badge.svg) 
-![Visits](https://badges.pufler.dev/visits/hawtim/hawtim)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 
 WorkFlow: 
 
@@ -19,11 +18,11 @@ WorkFlow:
 ![Gitlab](https://img.shields.io/badge/-Gitlab-%23330f63.svg?&style=flat-square&logo=gitlab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
 Code Style
 
 ![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?style=flat-square&logo=eslint)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+![Visits](https://badges.pufler.dev/visits/hawtim/hawtim)
 
 
 <!-- Something I am learning with:
