@@ -37,11 +37,11 @@ Code Style
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       7 hrs 18 mins   ██████████████░░░░░░░░░░░   55.47 %
-TypeScript   3 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-JSON         1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-JavaScript   54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Vue.js       8 hrs 44 mins   █████████████░░░░░░░░░░░░   52.39 %
+TypeScript   3 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+JSON         2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+JavaScript   2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
