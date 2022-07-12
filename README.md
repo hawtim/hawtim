@@ -12,9 +12,9 @@ Current Learning:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       15 hrs 58 mins  ████████████████▓░░░░░░░░   66.18 %
-JavaScript   6 hrs 48 mins   ███████░░░░░░░░░░░░░░░░░░   28.19 %
-Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Vue.js       16 hrs 40 mins  ████████████████▒░░░░░░░░   65.22 %
+JavaScript   7 hrs 30 mins   ███████▒░░░░░░░░░░░░░░░░░   29.34 %
+Other        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
