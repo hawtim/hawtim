@@ -12,10 +12,10 @@ Current Learning:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       14 hrs 30 mins  ████████████░░░░░░░░░░░░░   47.59 %
-JavaScript   9 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.13 %
-JSON         2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-Other        1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Vue.js       11 hrs 43 mins  ██████████░░░░░░░░░░░░░░░   39.59 %
+JavaScript   8 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 %
+JSON         3 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Other        2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
 ```
 
 <!--END_SECTION:waka-->
