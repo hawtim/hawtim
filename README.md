@@ -18,8 +18,3 @@ Other        1 hr 48 mins    ██▒░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-![Visits](https://badges.pufler.dev/visits/hawtim/hawtim)
-[![Years Badge](https://badges.pufler.dev/years/hawtim)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/hawtim)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/hawtim)](https://badges.pufler.dev)
